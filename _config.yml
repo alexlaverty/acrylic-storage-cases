@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Acrylic Guardians
+email: AcrylicGuardians@gmail.com
+url: https://github.com/alexlaverty/acrylic-storage-cases
+description: "Discover the perfect harmony of protection and elegance with our premium acrylic storage cases designed exclusively for safeguarding your treasured collector items for a lifetime. At AcrylicGuardians, we pride ourselves on offering the finest selection of meticulously crafted acrylic display cases, tailor-made to meet the highest standards of long-term preservation."
+keywords: "Acrylic storage cases, Collector item display cases, Long-term storage solutions, Acrylic display cases for collectibles, Premium acrylic protectors, UV-resistant collector cases, Crystal-clear storage cases, Custom-fit acrylic protectors, Dustproof display cases, Acrylic preservation solutions, Showcase for valuable collectibles, High-quality acrylic enclosures, Collectible item organizers, AcrylicGuardians display cases, Top-rated collector item protection, Distortion-free acrylic cases, Deluxe storage solutions for collectibles, Long-lasting acrylic preservation, Safeguard your prized possessions, Best acrylic display cases for collectors"
+skills: "Preserving Treasures, Elevating Displays – AcrylicGuardians"
+meta_author: Alex Laverty
 
 # Google webmaster tools
 google_verify:
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1 Pitt St Mall, 
+  - line: Sydney, 2000, NSW, Australia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
